@@ -30,3 +30,4 @@ clear staging area, rewrite working tree from specified commit
  write working from top of stash stack
 >git stash drop
  discard the changes from top of stash stack
+>git --Author = "name" --since = "date" --until = "date
